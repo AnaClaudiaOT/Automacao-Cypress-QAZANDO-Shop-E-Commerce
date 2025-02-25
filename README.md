@@ -1,4 +1,4 @@
-# cypress_automation_ga
+# QAZANDO Shop E-Commerce
 ## Introduction
 
 Projeto utiliza o intepretador em node, Java Script e framework Cypress.
