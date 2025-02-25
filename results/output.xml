@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="22.188" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-05-13T13:43:12" tests="0" file="cypress\e2e\web\shop.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Funcionalidade: Carrinho" timestamp="2024-05-13T13:43:12" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Validações de itens no carrinho" timestamp="2024-05-13T13:43:12" tests="3" time="22.182" failures="0">
+    <testcase name="Funcionalidade: Carrinho Validações de itens no carrinho Validar inclusão de item no carrinho" time="7.127" classname="Validar inclusão de item no carrinho">
+    </testcase>
+    <testcase name="Funcionalidade: Carrinho Validações de itens no carrinho Validar remoção de itens do carrinho" time="4.381" classname="Validar remoção de itens do carrinho">
+    </testcase>
+    <testcase name="Funcionalidade: Carrinho Validações de itens no carrinho Validar limpeza do carrinho" time="4.262" classname="Validar limpeza do carrinho">
+    </testcase>
+  </testsuite>
+</testsuites>
